@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manikrishnamandepudi/Desktop/ml-flow-practise/mlruns/113693467008016898/ab1b8fb60889483a88ea3d389dcfdc1a/artifacts
+end_time: 1736081677758
+entry_point_name: ''
+experiment_id: '113693467008016898'
+lifecycle_stage: active
+run_id: ab1b8fb60889483a88ea3d389dcfdc1a
+run_name: Random Forest
+run_uuid: ab1b8fb60889483a88ea3d389dcfdc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736081676498
+status: 3
+tags: []
+user_id: manikrishnamandepudi
